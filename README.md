@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-	<title>Otomatik Ram ve Önbellek Temizleme Scripti</title>
 	</head>
 	<body>
 	<li>free_ram</li>
