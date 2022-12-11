@@ -1,6 +1,5 @@
 #!/bin/bash
 ## Önbelleğe alınmış belleği temizlemek için Bash Script
-## Tactically
 ## <https://twitter.com/habib_karatas>
 
 if [ "$(whoami)" != "root" ]
